@@ -3,7 +3,7 @@ import {
   useWebApp,
   useWebAppInitData,
   useWebAppMainButton
-} from '@twa-dev/sdk-react';
+} from '@twa-dev/sdk';
 import { useEffect } from 'react';
 
 function App() {
